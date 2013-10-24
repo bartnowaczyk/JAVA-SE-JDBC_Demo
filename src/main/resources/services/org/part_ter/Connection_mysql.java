@@ -4,9 +4,9 @@ import java.sql.*;
 
 public class Connection_mysql {
 
-	private String url = "jdbc:mysql://mysql-585316.vipserv.org/barcholt_mpr";
-	private String user = "barcholt_mpr";
-	private String password = "barcholt_mpr";
+	private String url = "";
+	private String user = "";
+	private String password = "";
 	Connection connect;
 	Statement stmt;
 	
